@@ -7,11 +7,6 @@
 
 
 #include "ofMain.h"
-#include "ofxWMFVideoPlayerUtils.h"
-
-#include "EVRPresenter.h"
-
-
 
 class ofxWMFVideoPlayer;
 
